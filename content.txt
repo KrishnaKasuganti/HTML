@@ -1,0 +1,53 @@
+
+
+
+
+  <div class="link">
+    <p><a href="http://127.0.0.1:5501/index.html" class="btn btn-info">Main Page</a></p>
+    <p><a href="https://en.wikipedia.org/wiki/Main_Page" target="_blank" class="btn btn-info">Credit-Wikipedia</a></p>
+    <p><a href="History.html" class="btn btn-info">History</a> &nbsp;&nbsp;&nbsp;<a href=""
+        class="btn btn-info">Economy</a>&nbsp;&nbsp;&nbsp;<a href=""
+        class="btn btn-info">Structures</a>&nbsp;&nbsp;&nbsp;<a href="" class="btn btn-info">Cultrures</a></p>
+  </div>
+  <hr />
+
+  <div id="Dad">
+    <div id="locator">
+      <img src="/css/HIndex.jpg">
+    </div>
+    <p class="HeadingD">Dad's Home Town</p>
+    <p id="Dtext">Hyderabad is the capital and largest city of the Indian state of Telangana and the de jure capital of
+      <br>Andhra Pradesh.
+      It occupies 650 square kilometres (250 sq mi) on the Deccan Plateau along the <br>banks of the Musi River, in the
+      northern
+      part of South India. With an average altitude of 542 metres <br>(1,778 ft), much of Hyderabad is situated on hilly
+      terrain
+      around artificial lakes, including the Hussain <br>Sagar lake, predating the city's founding, in the north of the
+      city centre.
+      According to the 2011 Census <br>of India, Hyderabad is the fourth-most populous city in India with a population
+      of 6.9 million
+      residents <br>within the city limits, and has a population of 9.7 million residents in the metropolitan region,
+      making <br>it the
+      sixth-most populous metropolitan area in India. With an output of US$74 billion, Hyderabad <br>has the
+      fifth-largest urban economy in India. <br clear=right>
+    </p>
+
+    <div id="loacator1">
+      <img src="/css/KIndex.jpg">
+    </div>
+    <p class="HeadingA">Mom's Home Town</p>
+    <p id="Atext">Karimnagar is a city and District Headquarters in the Indian state of Telangana. Karimnagar is a major
+      urban <br>agglomeration and
+      fifth largest City in the state. It is governed by Municipal corporation and is the headquarters <br>of the
+      Karimnagar district[4][5] It is
+      situated on the banks of Manair River, which is a tributary of the Godavari <br>River. It is the third largest and
+      fastest growing urban settlement
+      in the state, according to 2011 census. It has <br>registered a population growth rate of 45.46% and 38.87%
+      respectively over the past two decades
+      between 1991 <br>and 2011, which is highest growth rate among major cities of Telangana. It serves as a major
+      educational and <br>health hub for
+      the northern districts of Telangana. It is a major business center and widely known for Granite <br>and Agro-based
+      industries. It is also called
+      "City of Granites"</p>
+  </div>
+  
